@@ -12,7 +12,7 @@ My Github page is http://github.com/SamDugo26
 
 Lab 1 part 1 was one of my favorite labs because it was the first thing I ever coded and it was extremely exciting. It also helped for the rest of the labs because lab 1 was the outline for the rest of the labs and it was the most memorable expierience.
 
-*Lab 7
+* Lab 7
 
 Lab 7 part 1 was probably one of the most complicating labs for me but although it was the most complicated it was one of my favorite because the satisfaction of finally completing the code and just how funny it was with my partner, being all confused
 
